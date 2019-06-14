@@ -1,0 +1,14 @@
+.custom-navigation {
+	background-color:#000000;
+
+}
+.text-white {
+	color:white;
+}
+a.nav-link {
+	color:white !important;
+}
+
+body {
+	background-color:red;
+}
